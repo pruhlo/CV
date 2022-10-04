@@ -31,6 +31,9 @@ html, body {
   /* h2 {
     padding-bottom: 14px;
   } */
+h3 {
+  padding-top: 50px;
+}
 header {
     /* text-align: center; */
     min-height: 40px;
@@ -44,6 +47,14 @@ header {
       border: 1px solid white;
       padding: 0px;
       width: 100%;
+  }
+  .contacts img {
+    width: auto; 
+    height: 30px; 
+  }
+  .skills img {
+    width: auto; 
+    height: 30px;
   }
   /* header h2 {
     padding-top: 40px;
